@@ -1,0 +1,66 @@
+.container-home {
+  background-image: rgb(131, 58, 180);
+  background-image: -moz-linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 0.715) 0%,
+    rgba(253, 29, 29, 0) 50%,
+    rgba(252, 176, 69, 1) 100%,
+  ),
+    url(https://tse4.mm.bing.net/th?id=OIP.AuakRUz5rZxE60dR9OuL1AHaC1&pid=Api);
+  background-image: -webkit-linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 0) 50%,
+    rgba(252, 176, 69, 1) 100%
+  ),
+   url(https://tse4.mm.bing.net/th?id=OIP.AuakRUz5rZxE60dR9OuL1AHaC1&pid=Api);
+  background-image: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 0) 50%,
+    rgba(252, 176, 69, 0.649) 100%
+  ),
+   url(https://tse4.mm.bing.net/th?id=OIP.AuakRUz5rZxE60dR9OuL1AHaC1&pid=Api);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#833ab4",endColorstr="#fcb045",GradientType=1);
+  background-size: cover;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.nombre,
+.text-container,
+.button,
+.container-home {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  color: white;
+  font-family: Roboto, san-serif;
+}
+.nombre {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.button {
+  background-color: yellow;
+  height: 3rem;
+  width: 30vw;
+  color: black;
+  font-weight: 900;
+  font-display: uppercase;
+  border-color: transparent;
+}
+.button:hover {
+  transition: ease-in-out 1s;
+  background-color: white;
+}
+.text-container {
+  font-size: 2rem;
+}
+span {
+  color: var(--clr-primary-5);
+  font-size: 3rem;
+}
