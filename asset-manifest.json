@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yamil/static/css/main.04159a62.css",
+    "main.js": "/yamil/static/js/main.93f1aaae.js",
+    "static/media/code.jpg": "/yamil/static/media/code.85029e0fd71b225a9a66.jpg",
+    "static/media/about.jpg": "/yamil/static/media/about.3b0069e7bb4e00145ad9.jpg",
+    "static/media/logo.png": "/yamil/static/media/logo.8a6fc0a24a800d1e0f4a.png",
+    "static/media/mark.png": "/yamil/static/media/mark.10b07c0fbe8385cbadde.png",
+    "static/media/header.png": "/yamil/static/media/header.40d1a5be14a2712741b1.png",
+    "static/media/web.jpg": "/yamil/static/media/web.b1199974ceaa3c1c9f30.jpg",
+    "static/media/pomo.png": "/yamil/static/media/pomo.207e6b0097bec4b6c6f7.png",
+    "static/media/tracker.png": "/yamil/static/media/tracker.ed0392ac773e202ad29a.png",
+    "static/media/metadata.png": "/yamil/static/media/metadata.651cef88b0b6b184e99c.png",
+    "static/media/url.png": "/yamil/static/media/url.0564fbc5d1fb0d1ae434.png",
+    "static/media/auto.png": "/yamil/static/media/auto.60c91ab6425df1e0e7b6.png",
+    "static/media/calculator.png": "/yamil/static/media/calculator.63fe6e83659f7ec6020a.png",
+    "index.html": "/yamil/index.html",
+    "main.04159a62.css.map": "/yamil/static/css/main.04159a62.css.map",
+    "main.93f1aaae.js.map": "/yamil/static/js/main.93f1aaae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04159a62.css",
+    "static/js/main.93f1aaae.js"
+  ]
+}
