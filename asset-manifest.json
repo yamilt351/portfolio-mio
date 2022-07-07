@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-mio/static/css/main.e10339dd.css",
-    "main.js": "/portfolio-mio/static/js/main.52b460a7.js",
+    "main.js": "/portfolio-mio/static/js/main.91302f5c.js",
     "static/media/code.jpg": "/portfolio-mio/static/media/code.85029e0fd71b225a9a66.jpg",
     "static/media/about.jpg": "/portfolio-mio/static/media/about.3b0069e7bb4e00145ad9.jpg",
     "static/media/logo.png": "/portfolio-mio/static/media/logo.8a6fc0a24a800d1e0f4a.png",
     "static/media/mark.png": "/portfolio-mio/static/media/mark.10b07c0fbe8385cbadde.png",
+    "static/media/resume.pdf": "/portfolio-mio/static/media/resume.fc179b4f6188df553b64.pdf",
     "static/media/header.png": "/portfolio-mio/static/media/header.40d1a5be14a2712741b1.png",
     "static/media/web.jpg": "/portfolio-mio/static/media/web.b1199974ceaa3c1c9f30.jpg",
     "static/media/pomo.png": "/portfolio-mio/static/media/pomo.207e6b0097bec4b6c6f7.png",
@@ -16,10 +17,10 @@
     "static/media/calculator.png": "/portfolio-mio/static/media/calculator.63fe6e83659f7ec6020a.png",
     "index.html": "/portfolio-mio/index.html",
     "main.e10339dd.css.map": "/portfolio-mio/static/css/main.e10339dd.css.map",
-    "main.52b460a7.js.map": "/portfolio-mio/static/js/main.52b460a7.js.map"
+    "main.91302f5c.js.map": "/portfolio-mio/static/js/main.91302f5c.js.map"
   },
   "entrypoints": [
     "static/css/main.e10339dd.css",
-    "static/js/main.52b460a7.js"
+    "static/js/main.91302f5c.js"
   ]
 }
