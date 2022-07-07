@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-mio/static/css/main.e10339dd.css",
+    "main.css": "/portfolio-mio/static/css/main.5dcdc4ae.css",
     "main.js": "/portfolio-mio/static/js/main.91302f5c.js",
     "static/media/code.jpg": "/portfolio-mio/static/media/code.85029e0fd71b225a9a66.jpg",
     "static/media/about.jpg": "/portfolio-mio/static/media/about.3b0069e7bb4e00145ad9.jpg",
@@ -16,11 +16,11 @@
     "static/media/auto.png": "/portfolio-mio/static/media/auto.60c91ab6425df1e0e7b6.png",
     "static/media/calculator.png": "/portfolio-mio/static/media/calculator.63fe6e83659f7ec6020a.png",
     "index.html": "/portfolio-mio/index.html",
-    "main.e10339dd.css.map": "/portfolio-mio/static/css/main.e10339dd.css.map",
+    "main.5dcdc4ae.css.map": "/portfolio-mio/static/css/main.5dcdc4ae.css.map",
     "main.91302f5c.js.map": "/portfolio-mio/static/js/main.91302f5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10339dd.css",
+    "static/css/main.5dcdc4ae.css",
     "static/js/main.91302f5c.js"
   ]
 }
